@@ -1,4 +1,4 @@
-## WorkGram
+## WorkGram (Demo Project)
 
 WorkGram is a full stack job portal web application designed to streamline the hiring process for candidates and recruiters. It provides a clean, intuitive interface for:
 
