@@ -24,12 +24,12 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 w-full z-60 backdrop-blur-lg bg-transparent transition-all">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
-        <Link
+       <Link
           href="/dashboard"
           className="text-xl font-extrabold text-blue-600 dark:text-blue-600 hover:text-blue-400"
         >
           WorkGram
-        </Link>
+        </Link> 
 
         {/* Nav Links */}
         <div className="flex gap-6 items-center text-sm font-medium">
